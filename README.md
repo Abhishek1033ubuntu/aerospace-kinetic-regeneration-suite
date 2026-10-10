@@ -61,6 +61,27 @@ To ground this research in real-world aerospace high-power transport challenges,
 
 ---
 
+## Directory Structure
+
+```
+aerospace-kinetic-regeneration-suite/
+├── .github/
+│   ├── FUNDING.yml                         # Sponsorship configuration (GitHub Sponsors & PayPal)
+│   └── workflows/
+│       └── python-simulation-ci.yml        # CI pipeline to auto-verify simulation execution
+├── docs/
+│   ├── CASE_01_MODERATE_FREQ_FSI.md        # Reference / Cross-linked Case 01 documentation
+│   └── CASE_02_KINETIC_RECOVERY_LOSSES.md # Full multi-physics case study & BOM analysis
+├── simulations/
+│   ├── kinetic_recovery_sim.py             # Executable differential Python physics engine
+│   └── kinetic_recovery_sim.ipynb          # Interactive Google Colab notebook with visualization
+├── .gitignore                              # Standard Python & Jupyter environment ignores
+├── LICENSE                                 # MIT License file
+├── README.md                               # Main repository documentation & badges
+└── requirements.txt                        # Required dependencies (numpy, matplotlib)
+```
+---
+
 ## Interactive Simulation Notebook (Google Colab)
 
 You can launch and execute the differential physics simulation engine directly in Google Colab:
