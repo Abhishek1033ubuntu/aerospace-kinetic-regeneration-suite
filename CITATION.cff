@@ -5,6 +5,7 @@ type: software
 authors:
   - family-names: "Singh"
     given-names: "Abhishek"
+    orcid: "https://orcid.org/0009-0004-6913-096X"
     role: "Lead Author / Sole Inventor"
 repository-code: "https://github.com/Abhishek1033ubuntu/aerospace-kinetic-regeneration-suite"
 abstract: "A multi-physics control logic, material formulation, and differential numerical validation suite for an Ultra-Fast Capacitive-Pulsed MGU Architecture. Integrates Silver-Plated Cu-Gr Litz wire, an ultracapacitor DC-link buffer, active SiC back-EMF ABS-analogy pulsing, and dynamic ram-air Cu-Diamond MMC heat sinks to achieve 92.1%–94.5% kinetic energy recovery efficiency under severe 1.2G deceleration transients."
