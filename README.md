@@ -6,6 +6,8 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
 [![AI Collaboration](https://img.shields.io/badge/AI%20Collaboration-Google%20Gemini-4285F4?logo=google-gemini&logoColor=white)](https://gemini.google.com)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Abhishek1033ubuntu/aerospace-kinetic-regeneration-suite/blob/main/simulations/kinetic_recovery_sim.ipynb)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Abhishek1033ubuntu)
+[![Donate PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?logo=paypal&logoColor=white)](https://www.paypal.me/Abhishek1033ubuntu)
 
 ---
 
