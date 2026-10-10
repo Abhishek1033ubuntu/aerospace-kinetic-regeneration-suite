@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Aerospace Kinetic Regeneration Suite: Transient Kinetic Energy Recovery and Thermal Mitigation in Aerospace MGUs"
+message: "If you use this multi-physics simulation suite or architectural model in your research or project, please cite it as below."
+type: software
+authors:
+  - family-names: "Singh"
+    given-names: "Abhishek"
+    role: "Lead Author / Sole Inventor"
+repository-code: "https://github.com/Abhishek1033ubuntu/aerospace-kinetic-regeneration-suite"
+abstract: "A multi-physics control logic, material formulation, and differential numerical validation suite for an Ultra-Fast Capacitive-Pulsed MGU Architecture. Integrates Silver-Plated Cu-Gr Litz wire, an ultracapacitor DC-link buffer, active SiC back-EMF ABS-analogy pulsing, and dynamic ram-air Cu-Diamond MMC heat sinks to achieve 92.1%–94.5% kinetic energy recovery efficiency under severe 1.2G deceleration transients."
+keywords:
+  - Aerospace Engineering
+  - Motor-Generator Unit (MGU)
+  - Regenerative Braking
+  - Hybrid Energy Storage
+  - Thermal Mitigation
+  - Silicon Carbide
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-10"
